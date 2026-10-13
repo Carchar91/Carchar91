@@ -13,6 +13,10 @@ Bangkok-based venture architect building AI-native and AI-enabled businesses, cr
 - [Semantic Authority Methodology v1.0](https://prudchenko.com/writing/semantic-authority-methodology) — an evolving methodology for applying that framework through evidence records, bounded diagnostics, and observed results.
 - [How to Audit AI Answers: Separating Identity from Evidence](https://prudchenko.com/writing/ai-answer-audit-identity-evidence) — my first-party AI-assisted case on separating identity from evidence. [Public evidence](https://prudchenko.com/evidence/ai-answer-audit/v1/index.html) contains three selected sanitized examples and aggregates. I am also the subject; classifications are preliminary Codex analysis, without an independent second annotator. No causal effect or general model error rate is established.
 
+## Working practice
+
+- [AI at the Decision Table](https://prudchenko.com/writing/ai-at-the-decision-table) — first-party excerpts from a team meeting with my personal AI assistant. A colleague supplies circumstances and asks for short, practical steps while I remain involved in directing the discussion. [Approved recording](https://prudchenko.com/videos/pin-working-session-journalist-final.mp4) · [English subtitles](https://prudchenko.com/videos/pin-working-session-journalist-final.en.srt). The recording documents the interaction; it does not establish legal correctness, comprehension or the outcome of the case.
+
 ## Contact
 
 [prudchenko.com](https://prudchenko.com/) · [Start a conversation](https://prudchenko.com/contact)
